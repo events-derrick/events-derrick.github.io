@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kleiner Derrick
 
 <!--
 **events-derrick/events-derrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
